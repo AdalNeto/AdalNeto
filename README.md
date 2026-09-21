@@ -4,7 +4,7 @@
 
 📚 <strong>I'm studying computer engineering at <abbr title="Universidade Federal da Bahia">UFBA</abbr></strong>
   
-👨🏽‍🏫 <strong>I'm an English teacher at CCAA</strong>
+👨🏽‍🏫 <strong>I'm an English teacher</strong>
 
 
 ## Nowadays, I'm learning... 
