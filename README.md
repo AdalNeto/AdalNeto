@@ -1,4 +1,4 @@
-# Hi, I'm Adal(berto Neto) 🖖🏽
+# Hi, I'm Adalberto Neto
 
 ## About Me
 
