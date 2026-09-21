@@ -13,6 +13,8 @@
 <br>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/) 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/) 
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/) 
 
  
 <strong>Front-end</strong>
@@ -23,4 +25,4 @@
 <strong>Versioning and Communication</strong>
 <br>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&link=https://github.com/AdalNeto/)](https://github.com/AdalNeto/)
